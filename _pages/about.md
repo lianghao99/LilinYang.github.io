@@ -17,7 +17,6 @@ Position held
 
 published papers
 ======
-论文
 [1] Physical Layer Secret Key Generation Based on Symplectic Finite Fourier Transform Preprocessing.
 
 [2] L. Yang, G. Li, T. Guo, H. Xu and A. Hu, "Physical-layer Secret Key Generation for Dual-task Scenarios", submitted to IEEE China Communications, 2023. (Major revision) (Q2, IF=4.1)
@@ -25,7 +24,6 @@ published papers
 
 patent
 ------
-专利
 [1] 李古月；杨丽琳；冯淑颖；胡爱群，基于辛变换的物理层密钥生成预处理方法，受理，2022.2.23，202210169400.X.
 
 
