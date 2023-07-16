@@ -13,13 +13,13 @@ Lilin Yang  is a Research 3 students and working toward the M.Sc. degree in the 
 
 Position held
 ======
-担任过的职务
 班级组织委员
 
 published papers
 ======
 论文
 [1] Physical Layer Secret Key Generation Based on Symplectic Finite Fourier Transform Preprocessing.
+
 [2] L. Yang, G. Li, T. Guo, H. Xu and A. Hu, "Physical-layer Secret Key Generation for Dual-task Scenarios", submitted to IEEE China Communications, 2023. (Major revision) (Q2, IF=4.1)
 
 
